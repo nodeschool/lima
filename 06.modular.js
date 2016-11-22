@@ -1,4 +1,4 @@
-var modulo=require('./modulo');
+var modulo=require('./06.modulo');
 var ruta=process.argv[2];
 var ext=process.argv[3];
 
