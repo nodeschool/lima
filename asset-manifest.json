@@ -1,9 +1,16 @@
 {
-  "main.css": "static/css/main.ef352001.css",
-  "main.css.map": "static/css/main.ef352001.css.map",
-  "main.js": "static/js/main.556dcd2d.js",
-  "main.js.map": "static/js/main.556dcd2d.js.map",
-  "static/media/bg.png": "static/media/bg.d9661ef4.png",
-  "static/media/limajs-grupo-sept-2018.jpg": "static/media/limajs-grupo-sept-2018.07b9d5ad.jpg",
-  "static/media/logo.svg": "static/media/logo.5629c865.svg"
+  "main.css": "/lima/static/css/main.56e429c7.chunk.css",
+  "main.js": "/lima/static/js/main.a578f54f.chunk.js",
+  "main.js.map": "/lima/static/js/main.a578f54f.chunk.js.map",
+  "static/js/1.ca250b1f.chunk.js": "/lima/static/js/1.ca250b1f.chunk.js",
+  "static/js/1.ca250b1f.chunk.js.map": "/lima/static/js/1.ca250b1f.chunk.js.map",
+  "runtime~main.js": "/lima/static/js/runtime~main.103d6c63.js",
+  "runtime~main.js.map": "/lima/static/js/runtime~main.103d6c63.js.map",
+  "static/css/main.56e429c7.chunk.css.map": "/lima/static/css/main.56e429c7.chunk.css.map",
+  "static/media/logo.svg": "/lima/static/media/logo.5629c865.svg",
+  "static/media/limajs-grupo-sept-2018.jpg": "/lima/static/media/limajs-grupo-sept-2018.07b9d5ad.jpg",
+  "static/media/bg.png": "/lima/static/media/bg.d9661ef4.png",
+  "index.html": "/lima/index.html",
+  "precache-manifest.378e0d227ce275411425c0af2e235e63.js": "/lima/precache-manifest.378e0d227ce275411425c0af2e235e63.js",
+  "service-worker.js": "/lima/service-worker.js"
 }
