@@ -32,7 +32,7 @@ const Sponsors = props => (
       ))}
     </div>
     <p style={styles.p}>
-      Quieres que tu empresa u organización patrocine estos eventos?&nbsp;
+      ¿Quieres que tu empresa u organización patrocine estos eventos?&nbsp;
       <a href="https://opencollective.com/limajs">
         Acá puedes ver cómo participar como sponsor
       </a>.

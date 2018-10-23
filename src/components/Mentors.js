@@ -41,7 +41,7 @@ const Mentors = props => (
         <a href={`https://github.com/${mentor.id}`} key={mentor.id} style={styles.mentor}>
           <img
             style={styles.avatar}
-            src={`https://github.com/${mentor.id}.png?size=${styles.avatar.width}`}
+            src={`https://github.com/${mentor.id}.png?size=200`}
             alt={mentor.id}
           />
           <div>{mentor.id}</div>
@@ -49,8 +49,8 @@ const Mentors = props => (
       ))}
     </div>
     <p style={styles.p}>
-      Tienes experiencia con Node.js y JavaScript y te gusta compartir?&nbsp;
-      <a href="https://github.com/nodeschool/lima/issues/9">
+      ¿Tienes experiencia con Node.js y JavaScript y te gusta compartir?&nbsp;
+      <a href="https://github.com/nodeschool/lima/issues/11">
         Acá puedes ver cómo participar como mentor.
       </a>
     </p>
