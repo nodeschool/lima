@@ -54,17 +54,15 @@ class Events extends Component {
       return (<div>Loading...</div>);
     }
 
-    if (this.state.error) {
-      console.log(this.state.error);
-      return (<div>Algo no salió bien</div>);
-    }
-
     return (
       <Section title="Próximos talleres" style={styles.root}>
         <div style={styles.inner}>
-          {this.state.data.map(event => (
-            <Event key={event.id} event={event} />
-          ))}
+          {this.state.error
+            ? <div>{this.state.error.message}</div>
+            : this.state.data.map(event => (
+              <Event key={event.id} event={event} />
+            ))
+          }
         </div>
       </Section>
     );
