@@ -1,7 +1,7 @@
 {
   "main.css": "/lima/static/css/main.56e429c7.chunk.css",
-  "main.js": "/lima/static/js/main.a578f54f.chunk.js",
-  "main.js.map": "/lima/static/js/main.a578f54f.chunk.js.map",
+  "main.js": "/lima/static/js/main.ba3b6d49.chunk.js",
+  "main.js.map": "/lima/static/js/main.ba3b6d49.chunk.js.map",
   "static/js/1.ca250b1f.chunk.js": "/lima/static/js/1.ca250b1f.chunk.js",
   "static/js/1.ca250b1f.chunk.js.map": "/lima/static/js/1.ca250b1f.chunk.js.map",
   "runtime~main.js": "/lima/static/js/runtime~main.103d6c63.js",
@@ -11,6 +11,6 @@
   "static/media/limajs-grupo-sept-2018.jpg": "/lima/static/media/limajs-grupo-sept-2018.07b9d5ad.jpg",
   "static/media/bg.png": "/lima/static/media/bg.d9661ef4.png",
   "index.html": "/lima/index.html",
-  "precache-manifest.378e0d227ce275411425c0af2e235e63.js": "/lima/precache-manifest.378e0d227ce275411425c0af2e235e63.js",
+  "precache-manifest.8987ce020a6ff8c4825822abab11f681.js": "/lima/precache-manifest.8987ce020a6ff8c4825822abab11f681.js",
   "service-worker.js": "/lima/service-worker.js"
 }

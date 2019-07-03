@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/lima/static/js/runtime~main.103d6c63.js"
   },
   {
-    "revision": "a578f54fcad1e96c7beb",
-    "url": "/lima/static/js/main.a578f54f.chunk.js"
+    "revision": "ba3b6d49ed90faf813fa",
+    "url": "/lima/static/js/main.ba3b6d49.chunk.js"
   },
   {
     "revision": "ca250b1f15da07a3be0f",
     "url": "/lima/static/js/1.ca250b1f.chunk.js"
   },
   {
-    "revision": "a578f54fcad1e96c7beb",
+    "revision": "ba3b6d49ed90faf813fa",
     "url": "/lima/static/css/main.56e429c7.chunk.css"
   },
   {
-    "revision": "1bf3b5134dd1e76c9fba4d43df5fdc7c",
+    "revision": "dab1e9e6eabdc2ad1ac0ca2e71ebc601",
     "url": "/lima/index.html"
   }
 ];
