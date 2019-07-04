@@ -14,22 +14,22 @@ que son 100% prácticos.
 
 ## Próximos talleres
 
-* [Sábado 6 de octubre](https://www.meetup.com/LimaJS/events/255049411/) - 10am-5pm
-* [Sábado 3 de noviembre](https://www.meetup.com/LimaJS/events/255196155/) - 10am-5pm
-* [Sábado 1 de diciembre](https://www.meetup.com/LimaJS/events/255218780/) - 10am-5pm
+* [Sábado 24 de agosto](https://www.meetup.com/LimaJS/events/262832852/) - 10am-5pm
 
-Estos tres talleres están siendo organizados por [LimaJS](https://limajs.org/) y serán
+Estos talleres están siendo organizados por [LimaJS](https://limajs.org/) y serán
 alojados en [Laboratoria](http://laboratoria.la/), nuestro principal sponsor.
 
 ## Mentorxs
 
-Tienes experiencia con Node.js y JavaScript y te gusta compartir?
-[Acá puedes ver cómo participar como mentor](https://github.com/nodeschool/lima/issues/9).
+Tienes experiencia con Node.js y JavaScript y te gusta compartir? Contáctanos
+por [GitHub](https://github.com/nodeschool/lima/issues/new) o el
+[Slack de LimaJS](https://holalimajs.herokuapp.com/) para poder contar contigo
+en el próximo evento.
 
 ## Sponsors
 
 Quieres que tu empresa u organización patrocine estos eventos?
-[Acá puedes ver cómo participar como sponsor](SPONSORS.md).
+[Acá puedes ver cómo participar como sponsor](https://opencollective.com/limajs).
 
 ## Código de conducta
 
