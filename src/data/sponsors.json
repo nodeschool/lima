@@ -1,0 +1,17 @@
+[
+  {
+    "id": "lima-js",
+    "link": "https://limajs.org/",
+    "photoURL": "https://github.com/lima-js.png?size=100"
+  },
+  {
+    "id": "laboratoria",
+    "link": "http://laboratoria.la/",
+    "photoURL": "https://github.com/Laboratoria.png?size=100"
+  },
+  {
+    "id": "mozillaperu",
+    "link": "http://mozilla.pe/",
+    "photoURL": "https://github.com/mozillaperu.png?size=100"
+  }
+]
