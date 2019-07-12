@@ -34,9 +34,9 @@ const About = () => (
       asistentes durante los talleres, que son 100% prácticos.
     </p>
     <p>
-      Los talleres son <strong>gratuitos</strong> y es necesario registrarse (en
-      el evento de meetup.com que corresponda) ya que la disponibilidad es
-      limitada.
+      Los talleres son <strong>gratuitos</strong>, es necesario registrarse (en
+      el evento de meetup.com que corresponda) y traer su propia laptop el dia
+      del evento ya que la disponibilidad es limitada.
     </p>
   </Section>
 );
