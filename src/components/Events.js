@@ -55,7 +55,7 @@ class Events extends Component {
     }
 
     return (
-      <Section title="Próximos talleres" style={styles.root}>
+      <Section title="Próximos talleres" style={styles.root} id='events'>
         <div style={styles.inner}>
           {this.state.error
             ? <div>{this.state.error.message}</div>

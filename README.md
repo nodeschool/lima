@@ -14,7 +14,7 @@ que son 100% prácticos.
 
 ## Próximos talleres
 
-* [Sábado 24 de agosto](https://www.meetup.com/LimaJS/events/262832852/) - 10am-5pm
+Puedes revisar los próximos talleres [aquí](https://nodeschool.io/lima/#events)
 
 Estos talleres están siendo organizados por [LimaJS](https://limajs.org/) y serán
 alojados en [Laboratoria](http://laboratoria.la/), nuestro principal sponsor.

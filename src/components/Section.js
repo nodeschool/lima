@@ -12,13 +12,14 @@ const styles = {
 };
 
 
-const Section = ({ title, children, style, className }) => (
+const Section = ({ title, children, style, className, id }) => (
   <section
     className={className || ''}
     style={{
       ...styles.root,
       ...(style || {}),
     }}
+    id={id || ''}
   >
     <div style={styles.inner}>
       {title && <h2>{title}</h2>}
