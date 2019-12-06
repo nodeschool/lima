@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [12.x, 13.x]
+        node-version: [12]
     steps:
     - uses: actions/checkout@v1
     - name: Use Node.js ${{ matrix.node-version }}
@@ -22,5 +22,5 @@ jobs:
       env:
         CI: true
     - name: deploy
-      if: success() && github.ref == 'master'
-      run: echo Would have deployed...
+      if: success()
+      run: echo Would have deployed ${{ github.ref }}
