@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbe62c19b0ed0cd481d5ed921e371c92",
+    "revision": "fc2c4ca93ed6934654febf7cae63fc68",
     "url": "/lima/index.html"
   },
   {
-    "revision": "546a8f87a70b1bb6f9a5",
+    "revision": "91cd98b32db9aaee6ac6",
     "url": "/lima/static/css/main.1736e6b8.chunk.css"
   },
   {
-    "revision": "f93fc3b7afcaec0858f2",
-    "url": "/lima/static/js/2.1561af78.chunk.js"
+    "revision": "122d45c79490d856e9b6",
+    "url": "/lima/static/js/2.369f8ed9.chunk.js"
   },
   {
-    "revision": "546a8f87a70b1bb6f9a5",
-    "url": "/lima/static/js/main.40abbca7.chunk.js"
+    "revision": "e928fe768baa9832b5bc57eae021f30c",
+    "url": "/lima/static/js/2.369f8ed9.chunk.js.LICENSE"
   },
   {
-    "revision": "eb844f4a616a2b18992c",
-    "url": "/lima/static/js/runtime~main.26f4b09c.js"
+    "revision": "91cd98b32db9aaee6ac6",
+    "url": "/lima/static/js/main.1b235aa1.chunk.js"
+  },
+  {
+    "revision": "81a5375b08ae86ba6fdf",
+    "url": "/lima/static/js/runtime-main.5f117867.js"
   },
   {
     "revision": "d9661ef4390dbbaeaca1645825a0826a",

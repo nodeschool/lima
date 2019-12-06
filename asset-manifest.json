@@ -1,18 +1,25 @@
 {
   "files": {
     "main.css": "/lima/static/css/main.1736e6b8.chunk.css",
-    "main.js": "/lima/static/js/main.40abbca7.chunk.js",
-    "main.js.map": "/lima/static/js/main.40abbca7.chunk.js.map",
-    "runtime~main.js": "/lima/static/js/runtime~main.26f4b09c.js",
-    "runtime~main.js.map": "/lima/static/js/runtime~main.26f4b09c.js.map",
-    "static/js/2.1561af78.chunk.js": "/lima/static/js/2.1561af78.chunk.js",
-    "static/js/2.1561af78.chunk.js.map": "/lima/static/js/2.1561af78.chunk.js.map",
+    "main.js": "/lima/static/js/main.1b235aa1.chunk.js",
+    "main.js.map": "/lima/static/js/main.1b235aa1.chunk.js.map",
+    "runtime-main.js": "/lima/static/js/runtime-main.5f117867.js",
+    "runtime-main.js.map": "/lima/static/js/runtime-main.5f117867.js.map",
+    "static/js/2.369f8ed9.chunk.js": "/lima/static/js/2.369f8ed9.chunk.js",
+    "static/js/2.369f8ed9.chunk.js.map": "/lima/static/js/2.369f8ed9.chunk.js.map",
     "index.html": "/lima/index.html",
-    "precache-manifest.32c9bd482bc0ce3cb6be96b878ba6eae.js": "/lima/precache-manifest.32c9bd482bc0ce3cb6be96b878ba6eae.js",
+    "precache-manifest.272f79639d8e2cb2dda62f7062c2f0d9.js": "/lima/precache-manifest.272f79639d8e2cb2dda62f7062c2f0d9.js",
     "service-worker.js": "/lima/service-worker.js",
     "static/css/main.1736e6b8.chunk.css.map": "/lima/static/css/main.1736e6b8.chunk.css.map",
+    "static/js/2.369f8ed9.chunk.js.LICENSE": "/lima/static/js/2.369f8ed9.chunk.js.LICENSE",
     "static/media/bg.png": "/lima/static/media/bg.d9661ef4.png",
     "static/media/limajs-grupo-sept-2018.jpg": "/lima/static/media/limajs-grupo-sept-2018.07b9d5ad.jpg",
     "static/media/logo.svg": "/lima/static/media/logo.5629c865.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f117867.js",
+    "static/js/2.369f8ed9.chunk.js",
+    "static/css/main.1736e6b8.chunk.css",
+    "static/js/main.1b235aa1.chunk.js"
+  ]
 }
