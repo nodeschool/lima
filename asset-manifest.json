@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lima/static/css/main.1736e6b8.chunk.css",
-    "main.js": "/lima/static/js/main.d9975d9d.chunk.js",
-    "main.js.map": "/lima/static/js/main.d9975d9d.chunk.js.map",
+    "main.js": "/lima/static/js/main.3b527367.chunk.js",
+    "main.js.map": "/lima/static/js/main.3b527367.chunk.js.map",
     "runtime-main.js": "/lima/static/js/runtime-main.5f117867.js",
     "runtime-main.js.map": "/lima/static/js/runtime-main.5f117867.js.map",
     "static/js/2.369f8ed9.chunk.js": "/lima/static/js/2.369f8ed9.chunk.js",
     "static/js/2.369f8ed9.chunk.js.map": "/lima/static/js/2.369f8ed9.chunk.js.map",
     "index.html": "/lima/index.html",
-    "precache-manifest.203406c88fa8945fe69cdc17fb34265b.js": "/lima/precache-manifest.203406c88fa8945fe69cdc17fb34265b.js",
+    "precache-manifest.87bdca5f20630adafbd3ec490306b2fb.js": "/lima/precache-manifest.87bdca5f20630adafbd3ec490306b2fb.js",
     "service-worker.js": "/lima/service-worker.js",
     "static/css/main.1736e6b8.chunk.css.map": "/lima/static/css/main.1736e6b8.chunk.css.map",
     "static/js/2.369f8ed9.chunk.js.LICENSE": "/lima/static/js/2.369f8ed9.chunk.js.LICENSE",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.5f117867.js",
     "static/js/2.369f8ed9.chunk.js",
     "static/css/main.1736e6b8.chunk.css",
-    "static/js/main.d9975d9d.chunk.js"
+    "static/js/main.3b527367.chunk.js"
   ]
 }
