@@ -23,4 +23,4 @@ jobs:
       run: |
         git config user.email "${{ secrets.GIT_EMAIL }}"
         git config user.name "${{ secrets.GIT_NAME }}"
-        npm run deploy --repo "https\://nodeschool\:${{ secrets.GITHUB_TOKEN }}@github.com/nodeschool/lima.git"
+        npm run deploy -- --repo "https\://nodeschool\:${{ secrets.GITHUB_TOKEN }}@github.com/nodeschool/lima.git"
