@@ -22,7 +22,5 @@ jobs:
       env:
         CI: true
     - name: deploy
-      branches:
-        - master
       if: success() && github.ref == 'master'
       run: echo Would have deployed...
