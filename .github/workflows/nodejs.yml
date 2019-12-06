@@ -23,4 +23,7 @@ jobs:
         CI: true
     - name: deploy
       if: success() && github.ref == 'refs/heads/master'
-      run: npm run deploy
+      run: |
+        git config user.email "${{ secrets.GIT_EMAIL }}"
+        git config user.name "${{ secrets.GIT_NAME }}"
+        npm run deploy
