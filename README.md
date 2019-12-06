@@ -1,5 +1,7 @@
 # NodeSchool - Lima chapter
 
+![Node CI Status](https://github.com/nodeschool/lima/workflows/Node%20CI/badge.svg)
+
 <img style="max-width: 300px;" align="center" src="./src/img/logo.svg">
 
 ¿Quieres aprender a programar pero no sabes por dónde empezar? ¿O tal vez ya
