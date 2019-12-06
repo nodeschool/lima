@@ -22,5 +22,5 @@ jobs:
       env:
         CI: true
     - name: deploy
-      if: success()
-      run: echo Would have deployed ${{ github.ref }}
+      if: success() && github.ref == 'refs/heads/master'
+      run: npm run deploy
