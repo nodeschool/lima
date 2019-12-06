@@ -12,15 +12,15 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: npm install, build, and test
+    - name: install and test
       run: |
         npm ci
         npm test
       env:
         CI: true
-    - name: deploy
+    - name: build and deploy
       if: success() && github.ref == 'refs/heads/master'
       run: |
         git config user.email "${{ secrets.GIT_EMAIL }}"
         git config user.name "${{ secrets.GIT_NAME }}"
-        npm run deploy --repo https://nodeschool:${{ secrets.GITHUB_TOKEN }}@github.com/nodeschool/lima.git
+        npm run deploy --repo "https://nodeschool:${{ secrets.GITHUB_TOKEN }}@github.com/nodeschool/lima.git"
