@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 const App = () => (
   <BrowserRouter>
     <Switch>
-      <Route exact path='/'>
+      <Route path='/'>
         <Header />
         <About />
         <Events />
