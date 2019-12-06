@@ -4,13 +4,10 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         node-version: [12.x, 13.x]
-
     steps:
     - uses: actions/checkout@v1
     - name: Use Node.js ${{ matrix.node-version }}
@@ -24,3 +21,8 @@ jobs:
         npm test
       env:
         CI: true
+    - name: deploy
+      branches:
+        - master
+      if: success() && github.ref == 'master'
+      run: echo Would have deployed...
